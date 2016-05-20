@@ -1,0 +1,22 @@
+# jemdoc: menu{MENU}{publications.html}
+= Publications
+
+In refereed journals
+
+   - Deepak U. Patil and Debraj Chakraborty, “Computation of Time Optimal Feedback Control using Groebner Basis”, IEEE Transactions on Automatic Control, Vol: 59(8), pp: 2271-2276, August, 2014.
+   - Deepak U. Patil, Ameer K. Mulla, Debraj Chakraborty; Harish Pillai, “Computation of feedback control for time optimal state transfer using Groebner basis,” Systems and Control letters, Vol. 79, pp: 1-7, May, 2015.
+   
+In conference proceedings
+
+   - Deepak U. Patil and Debraj Chakraborty, “Switching Surfaces and Null-controllable Region of a class of LTI systems using Grobner basis”, in Proceedings IEEE 51st Annual Conference on Decision and Control (CDC), 2012, pp. 1279–1284, Dec. 2012. 
+   - Deepak U. Patil, Ameer K. Mulla, Debraj Chakraborty, Harish Pillai, “Gröbner basis computation of feedback control for time optimal state transfer,” in Proceedings IEEE 52nd Annual Conference on Decision and Control (CDC) , vol., no., pp.3243,3248, 10-13 Dec. 2013.
+   - Ameer K. Mulla, Sujay Bhatt H. R., Deepak U. Patil, and Debraj Chakraborty, “Min-max Time Consensus Tracking Over Directed Trees”, in Proceedings 21st International Symposium on Mathematical Theory of Networks and Systems, July 7-11, 2014, University of Groningen, Groningen, The Netherland.
+   - Ameer K. Mulla, Deepak U. Patil, Debraj Chakraborty, “Distributed Computation of Minimum Time Consensus for Multi-Agent Systems,” in Proceedings IEEE 53nd Annual Conference on Decision and Control (CDC), Los Angeles, 15-17 Dec. 2014.
+     Travel to conference for presenting this research was supported by [http://research.microsoft.com/en-us/collaboration/global/india/travel_grants.aspx Microsoft Research India Travel Grant 2014].
+   - Deepak U. Patil and Debraj Chakraborty, “Computation of Time Optimal Feedback Control using Chebyshev Polynomials and Groebner Basis”, accepted in Proceedings of 8th IFAC Symposium on Robust Control Design, Bratislava, Slovak Republic, July 8-11, 2015.
+
+Under preparation:
+
+  - Deepak U. Patil and Debraj Chakraborty, “Computation of Time Optimal Feedback Control using Chebyshev Polynomials and Groebner Basis” and
+  - Ameer K. Mulla; Deepak U. Patil; Debraj Chakraborty, “Distributed Computation of Minimum Time Consensus for Multi-Agent Systems”.
+
